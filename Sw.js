@@ -1,5 +1,5 @@
 
-const CACHE = 'qsl-log-pwa-v2';
+const CACHE = 'qsl-log-pwa-v3';
 const ASSETS = [
   './',
   './index.html',

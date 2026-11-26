@@ -1,6 +1,6 @@
 {
-  "name": "QSL Log PWA Col",
-  "short_name": "QSL Log",
+  "name": "QSL",
+  "short_name": "QSL",
   "description": "Col·lecció QSL amb escaneig, mapa DXCC real i estadístiques",
   "start_url": "./index.html",
   "display": "fullscreen",
